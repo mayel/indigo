@@ -2,45 +2,22 @@
 title: About
 layout: page
 ---
-![Profile Image]({{ site.url }}/{{ site.picture }})
+![Profile Image]({{ site.url_base }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>If we were to meet randomly at a party, I could keep you guessing about my accent and where I'm from for hours on end. Having lived abroad much of my life (out of a couple suitcases for the last few years), I call myself a glomad (a word I made up). An entrepreneur with an activist streak, I enjoy taking things apart or inventing new ones, photography and (watching & sometimes making) films…
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>I'm addicted to travel and exploring the world, in the past few years I have found myself in over 20 countries (including Greece, Chile, Argentina, USA, Canada, UK, France, Uruguay, Germany, Netherlands, Turkey, Ireland, Austria, Singapore, Korea, Japan, Portugal…), but I'm not really counting. It’s less about the destinations (and really not about the sights), but more about the journey! I prefer staying somewhere for a while, really getting to know the culture and people…
 
-<h2>Skills</h2>
+<p>In the past I've built a global community of interpreters, podcast creation and video distribution platforms and produced video content, among other fun things...
 
+</p>
+
+<!--<h2>Dev Skills</h2>
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
+	<li>HTML</li>
+	<li>CSS</li>
+	<li>Javascript </li>
 	<li>Git</li>
 	<li>PHP</li>
-	<li>Python</li>
 	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
-
-<h2>Projects</h2>
-
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+</ul>-->
