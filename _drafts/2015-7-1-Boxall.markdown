@@ -1,0 +1,27 @@
+---
+title: "Boxall Profile Online"
+layout: post
+date: 2015-7-1 22:10
+tag: 
+- platform
+- client
+- web
+image: /assets/images/boxall-logo.png
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "The Boxall Profile is a social and emotional literacy test used by teachers"
+author: mayel
+externalLink: false
+---
+
+![Screenshot](./assets/images/boxall-screen.png)
+
+---
+
+The Boxall Profile is a social and emotional literacy test used by teachers.
+
+I took the old paper-based assessment and designed and developed an online platform, including a scoring system, graphs and PDF reports, an individualised learning plan tool with user-generated strategies and resources, etc...
+
+
+[Check it out](https://boxallprofile.org/)
