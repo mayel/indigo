@@ -1,19 +1,20 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
-
-# twitter summary info
-description: A blog about technology and stuff related
+name: Mayel de Borniol
+title: Mayel de Borniol
+bio: Hacking the World
+description: Hacking the World
 
 # if it's an external image, update below for true
 # better with square images
 external-image: false
 picture: assets/images/profile.jpg
+logo: ./assets/images/profile.jpg
 
-url: https://koppl.in/indigo
-# your url: http://USERNAME.github.io
+url: http://deborniol.com
+baseurl: 
+url_base: .
 
-permalink: /:title/
+permalink: /:title.html
 
 markdown: kramdown
 highlighter: rouge
@@ -26,32 +27,43 @@ highlighter: rouge
 # analytics-piwik-id: 1
 
 # if you don't want comments in your posts, set to false
-disqus: mydisqus
+disqus: false
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-# google: mygoogle
-# instagram: myinstagram
+twitter: mayel2b
+facebook: mayel2b
+#google: mayeldeborniol
 # pinterest: mypinterest
-# linkedin: mylinkedin
-youtube: myyoutube
-spotify: myspotify
-github: mygithub
-stackoverflow: 7044681/mystackoverflow
-quora: userquora
-reddit: username
-medium: medium
-vimeo: myvimeo
-email: myemail@gmail.com
+linkedin: mayel
+github: mayel
+stackoverflow: story/384466
+medium: mayel
+instagram: mayel2b
+youtube: mayeldeborniol
+# spotify: myspotify
+#quora: userquora
+reddit: mayel
+#vimeo: myvimeo
+#email: m+site@deborniol.com
 
+# for SEO https://developers.google.com/structured-data/customize/social-profiles
+social:
+  name: Mayel de Borniol
+  links:
+    - https://twitter.com/mayel2b
+    - https://www.facebook.com/mayel2b
+    - https://www.linkedin.com/in/mayel
+    - https://plus.google.com/+MayelDeBorniol
+    - https://github.com/mayel
+    - https://keybase.io/mayel
+    
 authors:
-    johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+    mayel:
+        name: Mayel de Borniol
+        bio: Hacking the World
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe
+        twitter: mayel2b
     jamesfoster:
         name: James Foster
         bio: A Man who develops software with coffee
@@ -72,8 +84,8 @@ width: normal
 projects: true
 
 # if you don't need "about" or "blog", comment them out below
-about: false
-blog: true
+about: true
+blog: false
 
 # do you want to show the "read time" of the posts?
 read-time: true
