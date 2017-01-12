@@ -1,5 +1,5 @@
 ---
-title: "GetAcross helps refugees freely communicate across language barriers with the help of volunteer interpreters"
+title: "GetAcross, helping refugees freely communicate across language barriers with the help of volunteer interpreters"
 layout: post
 date: 2015-12-1 22:10
 tag: 
@@ -26,4 +26,4 @@ externalLink: false
 
 I founded & developed (with some help for the iPhone app) this non-profit solution to respond to language barriers during the refugee crisis in Europe.
 
-[Check it out](https://app.getacross.org/), and let me know if you want to help!
+[Check out the GetAcross site](https://app.getacross.org/), and let me know if you want to help!
