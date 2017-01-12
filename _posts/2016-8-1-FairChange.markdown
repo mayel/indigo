@@ -1,7 +1,7 @@
 ---
 title: "FairChange, translating foreign currency into meaningful value"
 layout: post
-date: 2015-12-1 22:10
+date: 2016-9-1 22:10
 tag: 
 - travel
 - app
