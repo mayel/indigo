@@ -7,7 +7,7 @@ tag:
 - app
 - currency
 - exchange
-headerImage: true
+headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination
 description: "Helps you understand and control spending as you travel"

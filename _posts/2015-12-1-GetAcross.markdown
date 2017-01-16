@@ -20,7 +20,7 @@ author: mayel
 externalLink: false
 ---
 
-![Screenshot](./assets/images/getacross-screen.png)
+[![Screenshot](./assets/images/getacross-screen.png)](https://app.getacross.org/)
 
 ---
 
