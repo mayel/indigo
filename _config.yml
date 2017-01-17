@@ -9,6 +9,7 @@ description: Hacking the World
 external-image: false
 picture: assets/images/profile.jpg
 logo: ./assets/images/profile.jpg
+image: ./assets/images/profile.jpg
 
 url: http://deborniol.com
 baseurl: 
