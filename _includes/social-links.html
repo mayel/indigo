@@ -32,7 +32,7 @@
 	{% endif %}
 	
 	{% if site.medium %}
-	    <a class="link" data-title="Writings on Medium" href="https://medium.com/@{{ site.medium }}" target="_blank">
+	    <a class="link" data-title="Reading &amp; Writing on Medium" href="https://medium.com/@{{ site.medium }}" target="_blank">
 	        <svg class="icon icon-medium"><use xlink:href="#icon-medium"></use></svg>
 	    </a>
 	{% endif %}
@@ -58,7 +58,7 @@
 
 
     {% if site.youtube %}
-        <a class="link" data-title="Videos on YouTube" href="http://youtube.com/{{ site.youtube }}" target="_blank">
+        <a class="link" data-title="Watch videos on YouTube" href="http://youtube.com/{{ site.youtube }}" target="_blank">
             <svg class="icon icon-youtube"><use xlink:href="#icon-youtube"></use></svg>
         </a>
     {% endif %}
@@ -70,45 +70,51 @@
     {% endif %}
 
     {% if site.spotify %}
-        <a class="link" data-title="Music on Spotify" href="https://open.spotify.com/user/{{ site.spotify }}" target="_blank">
+        <a class="link" data-title="Listen to music on Spotify" href="https://open.spotify.com/user/{{ site.spotify }}" target="_blank">
             <svg class="icon icon-spotify"><use xlink:href="#icon-spotify"></use></svg>
         </a>
     {% endif %}
 
 
     {% if site.quora %}
-        <a class="link" data-title="Q&A on Quora" href="https://www.quora.com/profile/{{ site.quora }}" target="_blank">
+        <a class="link" data-title="Ask or answer questions on Quora" href="https://www.quora.com/profile/{{ site.quora }}" target="_blank">
             <svg class="icon icon-quora"><use xlink:href="#icon-quora"></use></svg>
         </a>
     {% endif %}
 
     {% if site.reddit %}
-        <a class="link" data-title="Discussions on Reddit" href="https://www.reddit.com/user/{{ site.reddit }}" target="_blank">
+        <a class="link" data-title="Discuss random things on Reddit" href="https://www.reddit.com/user/{{ site.reddit }}" target="_blank">
             <svg class="icon icon-reddit"><use xlink:href="#icon-reddit"></use></svg>
         </a>
     {% endif %}
 
 	
     {% if site.keybase %}
-		<a class="link" data-title="Encryption keys on Keybase" href="https://keybase.io/{{ site.keybase }}" target="_blank">
+		<a class="link" data-title="Send me an encrypted message or document via Keybase" href="https://keybase.io/{{ site.keybase }}" target="_blank">
 		    <svg class="icon icon-key"><use xlink:href="#icon-key"></use></svg>
 		</a>
     {% endif %}
 
 	{% if site.bitcoin %}
-		<a class="link" data-title="Bitcoin address" href="{{ site.bitcoin }}" target="_blank">
+		<a class="link" data-title="Pay/donate some Bitcoin" href="{{ site.bitcoin }}" target="_blank">
 		    <svg class="icon icon-btc"><use xlink:href="#icon-btc"></use></svg>
 		</a>
 	{% endif %}
 
 	{% if site.hire %}
 		<a class="link" data-title="Hire me for a project" href="{{ site.hire }}" target="_blank">
-		    <svg class="icon icon-office"><use xlink:href="#icon-office"></use></svg>
+		    <svg class="icon icon-work"><use xlink:href="#icon-work"></use></svg>
 		</a>
 	{% endif %}
-
+	
+	{% if site.consult %}
+		<a class="link" data-title="Call me for remote consulting" href="{{ site.consult }}" target="_blank">
+		    <svg class="icon icon-videochat"><use xlink:href="#icon-videochat"></use></svg>
+		</a>
+	{% endif %}
+	
 	{% if site.email_link %}
-	    <a class="link" data-title="Message me" href="{{ site.email_link }}">
+	    <a class="link" data-title="Send me a message" href="{{ site.email_link }}">
 	        <svg class="icon icon-mail"><use xlink:href="#icon-mail"></use></svg>
 	    </a>
 	{% endif %}
