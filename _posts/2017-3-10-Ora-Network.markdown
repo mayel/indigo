@@ -21,4 +21,4 @@ externalLink: false
 
 Early stage of development.
 
-[Check out the Ora Network site](https://ora.network/), and let me know if you want to get involved!
+[Check out the Ora Network site](http://ora.network/), and let me know if you want to get involved!
