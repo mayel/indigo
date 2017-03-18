@@ -1,5 +1,5 @@
 ---
-title: "Ora Network, an online skill-sharing time bank"
+title: "Ora Network, a global skill-sharing network for remote collaboration"
 layout: post
 date: 2017-3-10 22:10
 tag: 
@@ -13,7 +13,7 @@ tag:
 headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "Ora Network, an online skill-sharing time bank"
+description: "Ora Network, a global skill-sharing network for remote collaboration"
 author: mayel
 externalLink: false
 ---
