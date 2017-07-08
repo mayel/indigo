@@ -124,5 +124,14 @@ plugins:
   - jekyll-gist
   - jekyll-paginate
 
+gems:
+  - jemoji
+  - jekyll-mentions
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-paginate
+  
 jekyll-mentions:
     base_url: https://github.com
