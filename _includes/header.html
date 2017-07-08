@@ -1,10 +1,11 @@
 {% if page.title == "Home"
+   or page.title == "About"
+   or page.title == "Work"
    or page.title == "Blog"
    or page.title == "Projects"
-   or page.title == "Tags"
-%}{% assign showHeader = true %}{% endif %}
+%}{% assign showDetails = true %}{% endif %}
 
-{% if showHeader == true %}
+{% if hideHeader != true %}
     <header class="header-home {% if site.animation %}animated{% endif %}">
         {% if site.about %}
             <a class="link" href="{{ site.url_base }}/about.html">
@@ -16,9 +17,11 @@
             </span>
         {% endif %}
 
-        <h1 class="title">{{ site.name }}</h1>
-        <h2 class="description">{{ site.bio }}</h2>
-
+        {% if showDetails == true %}
+	        <h1 class="title">{{ site.name }}</h1>
+	        <h2 class="description">{{ site.bio }}</h2>
+		{% endif %}
+		
         {% include social-links.html %}
     </header>
 {% endif %}

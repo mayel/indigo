@@ -2,3 +2,26 @@
 layout: page
 title: Home
 ---
+
+<a name="about" />
+<div class="about">
+{% capture my_include %}{% include about.md %}{% endcapture %}
+{{ my_include | markdownify }}
+</div>
+
+<a name="projects" />
+<hr/>
+{% include nav.html section = "Projects" %}
+
+<div class="projects">
+{% include projects.html %}
+</div>
+
+
+<a name="work" />
+<hr/>
+{% include nav.html section = "Work" %}
+<div class="about">
+{% capture my_include %}{% include work.md %}{% endcapture %}
+{{ my_include | markdownify }}
+</div>

@@ -2,14 +2,5 @@
 layout: page
 title: Projects
 ---
-<section class="list">
-    {% for post in site.posts %}
-        {% if post.projects %}
-            <div class="item {% if post.star %}star{% endif %}">
-                <a class="url" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url_base }}{{ post.url }}{% endif %}">
-                    {{ post.jemoji }}<h3 class="title">{{ post.title }}</h3> 
-                </a>
-            </div>
-        {% endif %}
-    {% endfor %}
-</section>
+
+{% include projects.html %}
