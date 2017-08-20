@@ -6,16 +6,10 @@
 %}{% assign showDetails = true %}{% endif %}
 
 {% if hideHeader != true %}
-    <header class="header-home {% if site.animation %}animated{% endif %}">
-        {% if site.about %}
-            <a class="link" href="{{ site.url_base }}/about.html">
-                <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url_base }}/{{ site.picture }}{% endif %}" />
-            </a>
-        {% else %}
-            <span class="link">
-                <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url_base }}/{{ site.picture }}{% endif %}" />
-            </span>
-        {% endif %}
+    <header class="header-home u-photo {% if site.animation %}animated{% endif %}">
+        <span class="link">
+            <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url_base }}/{{ site.picture }}{% endif %}" />
+        </span>
 
         {% if showDetails == true %}
 	        <h1 class="title">{{ site.name }}</h1>
