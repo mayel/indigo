@@ -1,5 +1,5 @@
 ---
-title: "Social.coop, a coop-run node of the 'fediverse' social network, a cooperative and transparent approach to online platforms"
+title: "Social.coop, a coop-run corner of the fediverse, experimenting with a co-operative and transparent approach to operating an online platform"
 layout: post
 date: 2017-3-10 22:10
 tag: 
@@ -13,12 +13,16 @@ tag:
 headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "Social.coop, a coop-run node of the 'fediverse' social network, a cooperative and transparent approach to online platforms"
+description: "Social.coop, a coop-run corner of the fediverse, experimenting with a co-operative and transparent approach to operating an online platform"
 author: mayel
 externalLink: false
 ---
 
 
-[Social.coop](https://social.coop/) is a Mastodon node (a free, open-source microblogging platform). A decentralized alternative to commercial platforms, this social network combats the risks of a company monopolizing your communication. Thanks to open standards and federation protocols, you can interact with everyone else on Mastodon or GNU Social (the "fediverse"), no matter what provider they signed up with.
+I'm a founding member of the [Social.coop](https://social.coop/) Mastodon instance. 
+
+Mastodon is a microblogging & social network based on open protocols and free, open-source software.
+
+As a decentralized (like e-mail) alternative to commercial platforms, it combats the risks of a company monopolizing your communication. You can interact with everyone else on Mastodon, GNU Social, or other compatible software (together called the "fediverse"), no matter what provider each of you are using.
 
 [Check out the Social.coop site](https://social.coop/), and sign up if you want to get involved!
