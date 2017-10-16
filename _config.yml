@@ -12,7 +12,7 @@ logo: ./assets/images/profile.jpg
 image: ./assets/images/profile.jpg
 
 url: http://mayel.space
-baseurl: 
+baseurl:
 url_base: .
 
 permalink: /:title.html
@@ -21,7 +21,7 @@ markdown: kramdown
 highlighter: rouge
 
 # To enable google analytics, supply your token below
-# analytics-google: 'UA-MYANALYTICS'
+analytics-google: 'UA-2664400-1'
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
@@ -62,7 +62,7 @@ social:
     - https://plus.google.com/+MayelDeBorniol
     - https://github.com/mayel
     - https://keybase.io/mayel
-    
+
 authors:
     mayel:
         name: Mayel de Borniol
@@ -132,6 +132,6 @@ gems:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-paginate
-  
+
 jekyll-mentions:
     base_url: https://github.com
