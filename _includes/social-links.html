@@ -2,7 +2,7 @@
 
 	{% if site.email_link %}
 			<a class="link" data-title="Send me a message" href="{{ site.email_link }}">
-					<svg style="fill:green" class="icon icon-mail"><use xlink:href="#icon-mail"></use></svg>
+					<svg style="fill:#2b90d9" class="icon icon-mail"><use xlink:href="#icon-mail"></use></svg>
 			</a>
 	{% endif %}
 
@@ -18,15 +18,21 @@
 	 </a>
 	{% endif %}
 
+	{% if site.keybase %}
+	<a class="link" rel="me" data-title="Send me an encrypted message or document via Keybase" href="https://keybase.io/{{ site.keybase }}" target="_blank">
+			<svg style="fill:#2b90d9" class="icon icon-key"><use xlink:href="#icon-key"></use></svg>
+	</a>
+	{% endif %}
+
 	{% if site.twitter %}
 	    <a class="link" rel="me" data-title="Follow on Twitter" href="http://twitter.com/{{ site.twitter }}" target="_blank">
-	        <svg style="fill:bisque" class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg>
+	        <svg style="fill:#E2DFE5" class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg>
 	    </a>
 	{% endif %}
 
   {% if site.facebook %}
       <a class="link" rel="me" data-title="Follow on Facebook" href="http://facebook.com/{{ site.facebook }}" target="_blank">
-          <svg style="fill:bisque" class="icon icon-facebook"><use xlink:href="#icon-facebook"></use></svg>
+          <svg style="fill:#E2DFE5" class="icon icon-facebook"><use xlink:href="#icon-facebook"></use></svg>
       </a>
   {% endif %}
 
@@ -88,11 +94,6 @@
   {% endif %}
 
 
-  {% if site.keybase %}
-	<a class="link" rel="me" data-title="Send me an encrypted message or document via Keybase" href="https://keybase.io/{{ site.keybase }}" target="_blank">
-	    <svg style="fill:salmon" class="icon icon-key"><use xlink:href="#icon-key"></use></svg>
-	</a>
-  {% endif %}
 
 	{% if site.bitcoin %}
 		<a class="link" rel="me" data-title="Pay/donate some Bitcoin" href="{{ site.bitcoin }}" target="_blank">
