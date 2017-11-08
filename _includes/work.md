@@ -1,8 +1,8 @@
-With over 10 years experience as a startup founder and over 15 years as a full-stack web app developer, I can help with a wide range of projects. 
+With over 10 years experience as a startup founder and over 15 years as a full-stack web app developer, I can help with a wide range of projects.
 
-Whether it be defining a project's strategy, designing the features and architecture, building and launching the website or app, or setting up the servers. 
+Whether it be defining a project's strategy, designing the features and architecture, building and launching the website or app, or setting up the servers.
 
-On top of my core technical skills, I've been in charge of everything from product design to project management, pitching to fundraising, hiring to project management, community building to customer service, branding to PR to social media, and even marketing and sales when that couldn't be avoided… 
+On top of my core skills (programming, sysadmin, and tech in general), I've been in charge of things like product design, UX, project management, planning, fundraising, team building, community, customer service, branding, press, social media, and even marketing/sales when unavoidable…
 
 I'm currently available for:
 <ul>
