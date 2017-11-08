@@ -1,8 +1,8 @@
 ---
-title: "Social.coop, a coop-run corner of the fediverse, experimenting with a co-operative and transparent approach to operating an online platform"
+title: "Social.coop, a coop-run corner of the fediverse"
 layout: post
-date: 2017-3-10 22:10
-tag: 
+date: 2017-5-10 22:10
+tag:
 - platform
 - coop
 - social network
@@ -19,7 +19,7 @@ externalLink: false
 ---
 
 
-I'm a founding member of the [Social.coop](https://social.coop/) Mastodon instance. 
+I'm a founding member of the [Social.coop](https://social.coop/) Mastodon instance.
 
 Mastodon is a microblogging & social network based on open protocols and free, open-source software.
 
