@@ -10,7 +10,8 @@ tag:
 - decentralised
 - federated
 - cooperative
-headerImage: false
+headerImage: true
+image: /assets/images/socialcoop.png
 projects: true
 hidden: true # don't count this post in blog pagination
 description: "Social.coop, a coop-run corner of the fediverse, experimenting with a co-operative and transparent approach to operating an online platform"
@@ -26,3 +27,5 @@ Mastodon is a microblogging & social network based on open protocols and free, o
 As a decentralized (like e-mail) alternative to commercial platforms, it combats the risks of a company monopolizing your communication. You can interact with everyone else on Mastodon, GNU Social, or other compatible software (together called the "fediverse"), no matter what provider each of you are using.
 
 [Check out the Social.coop site](https://social.coop/), and sign up if you want to get involved!
+
+[![Mascot](./assets/images/mastodon.png)](https://social.coop/)

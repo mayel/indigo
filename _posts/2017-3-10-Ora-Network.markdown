@@ -19,6 +19,6 @@ externalLink: false
 ---
 
 
-The Ora Network project, a platform to swap skills with other digital workers, is at an early stage of development.
+The Ora Network will be a platform to swap skills with other digital workers, currently at an early stage of development.
 
 [Check out the Ora Network site](http://ora.network/), and let me know if you want to get involved!
