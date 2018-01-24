@@ -13,6 +13,7 @@ hidden: true # don't count this post in blog pagination
 description: "Helps you understand and control spending as you travel"
 author: mayel
 externalLink: false
+badge: Incubating
 ---
 
 

@@ -17,6 +17,7 @@ hidden: true # don't count this post in blog pagination
 description: "The Copy Team, collaborative copy-editing and translation co-op"
 author: mayel
 externalLink: false
+badge: Live
 ---
 
 

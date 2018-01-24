@@ -18,6 +18,7 @@ hidden: true # don't count this post in blog pagination
 description: "I founded & developed this non-profit solution to respond to language barriers during the refugee crisis in Europe."
 author: mayel
 externalLink: false
+badge: Archived
 ---
 
 [![Screenshot](./assets/images/getacross-screen.png)](https://app.getacross.org/)

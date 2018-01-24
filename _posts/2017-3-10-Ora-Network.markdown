@@ -16,6 +16,7 @@ hidden: true # don't count this post in blog pagination
 description: "Ora Network, a digital skill sharing network for global cooperation"
 author: mayel
 externalLink: false
+badge: Incubating
 ---
 
 

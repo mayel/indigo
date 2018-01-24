@@ -16,6 +16,7 @@ hidden: true # don't count this post in blog pagination
 description: "CloudVault is for freedom-loving individuals"
 author: mayel
 externalLink: false
+badge: Live
 ---
 
 [![Screenshot](./assets/images/cloudvault-screen.png)](http://cloudvault.me/)

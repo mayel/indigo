@@ -16,6 +16,7 @@ hidden: true # don't count this post in blog pagination
 description: "HAHA Academy, 21st century education"
 author: mayel
 externalLink: false
+badge: Alpha
 ---
 
 

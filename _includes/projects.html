@@ -2,12 +2,20 @@
 
 <p>Recent projects include:
 
+<link rel="stylesheet" type="text/css" href="/assets/badge.css">
+
 <section class="list">
     {% for post in site.posts %}
         {% if post.projects %}
             <div class="item {% if post.star %}star{% endif %}">
                 <a class="url" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url_base }}{{ post.url }}{% endif %}">
-                    {{ post.jemoji }}<h3 class="title">{{ post.title }}</h3>
+                    
+                    {% if post.image and post.headerImage %}
+                        <img class="title-image" src="{{ site.url_base }}/{{ post.image }}" alt="logo or illustration of {{ post.title }}">
+                    {% endif %}
+                    
+                    <span class="label badge-{{ post.badge }}">{{ post.badge }}</span>
+                    <h3 class="title">{{ post.title }}</h3>
                 </a>
             </div>
         {% endif %}

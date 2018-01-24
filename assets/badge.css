@@ -1,0 +1,71 @@
+.label,
+.badge {
+  background-color: #b5b5b5;
+  color: #fff;
+  font-size: 1rem;
+  line-height: 2;
+  font-weight: bold;
+  padding: 5px 9px;
+  text-align: center;
+  vertical-align: middle;
+  white-space: nowrap;
+}
+
+.label {
+  border-radius: 4px;
+  display: inline;
+}
+
+.badge {
+  border-radius: 10px;
+  display: inline-block;
+  padding: 1px 7px;
+}
+
+.label[href]:hover, .label[href]:focus {
+  color: #fff;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+a.badge:hover, a.badge:focus {
+  color: #fff;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.label a,
+.badge a {
+  color: #fff;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.label:empty,
+.badge:empty {
+  display: none;
+}
+
+.projects .label {
+	text-transform: uppercase;
+	float: right;
+	margin-left: 20px;
+	color: white;
+}
+
+.badge-Live {
+	background-color: #F1FFC4;
+	color: #5f5f5f !important;
+}
+.badge-Beta {
+	background-color: #FFCAAF;
+}
+.badge-Alpha {
+	background-color: #C6E2E9;
+}
+.badge-Incubating {
+	background-color: #A7BED3;
+}
+.badge-Pre-Archived {
+	background-color: #DAB894;
+}

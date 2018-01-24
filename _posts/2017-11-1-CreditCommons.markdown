@@ -18,6 +18,7 @@ hidden: true # don't count this post in blog pagination
 description: "Credit Commons, a money system for the solidarity economy"
 author: mayel
 externalLink: false
+badge: Beta
 ---
 
 

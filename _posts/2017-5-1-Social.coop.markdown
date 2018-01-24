@@ -17,6 +17,7 @@ hidden: true # don't count this post in blog pagination
 description: "Social.coop, a coop-run corner of the fediverse, experimenting with a co-operative and transparent approach to operating an online platform"
 author: mayel
 externalLink: false
+badge: Live
 ---
 
 
