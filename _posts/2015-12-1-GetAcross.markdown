@@ -2,7 +2,7 @@
 title: "GetAcross, helping refugees freely communicate across language barriers with the help of volunteer interpreters"
 layout: post
 date: 2015-12-1 22:10
-tag: 
+tag:
 - non-profit
 - language
 - app
@@ -19,6 +19,7 @@ description: "I founded & developed this non-profit solution to respond to langu
 author: mayel
 externalLink: false
 badge: Archived
+weight: 90
 ---
 
 [![Screenshot](./assets/images/getacross-screen.png)](https://app.getacross.org/)

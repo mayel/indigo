@@ -18,9 +18,9 @@ hidden: true # don't count this post in blog pagination
 description: "Credit Commons, a money system for the solidarity economy"
 author: mayel
 externalLink: false
-badge: Beta
+badge: Alpha
+weight: 55
 ---
 
 
 I'm part of the [Credit Commons Collective](http://www.creditcommons.net/), developing the [Community Exchange app](https://github.com/mayel/LETS-app), and advising on the [LocalPay project](http://localpay.tech/).
-

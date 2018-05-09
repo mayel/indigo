@@ -17,9 +17,10 @@ description: "HAHA Academy, 21st century education"
 author: mayel
 externalLink: false
 badge: Alpha
+weight: 40
 ---
 
 
-I'm a co-founder and developer of [HAHA Academy](http://HAHA.Academy/), an online education platform to index, curate, and produce freely available educational content. 
+I'm a co-founder and developer of [HAHA Academy](http://HAHA.Academy/), an online education platform to index, curate, and produce freely available educational content.
 
  HAHA is nonprofit organisation whose mission is to empower humans of all ages to continuously follow our passions and curiosities, and become more enlightened individuals.

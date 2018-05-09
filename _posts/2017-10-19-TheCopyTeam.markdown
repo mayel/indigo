@@ -18,6 +18,7 @@ description: "The Copy Team, collaborative copy-editing and translation co-op"
 author: mayel
 externalLink: false
 badge: Live
+weight: 60
 ---
 
 

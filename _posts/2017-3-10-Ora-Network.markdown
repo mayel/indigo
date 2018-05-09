@@ -2,7 +2,7 @@
 title: "Ora Network, digital skill swapping. No money, no problems!"
 layout: post
 date: 2017-3-10 22:10
-tag: 
+tag:
 - platform
 - time bank
 - skill sharing
@@ -17,6 +17,7 @@ description: "Ora Network, a digital skill sharing network for global cooperatio
 author: mayel
 externalLink: false
 badge: Incubating
+weight: 30
 ---
 
 

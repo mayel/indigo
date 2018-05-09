@@ -8,7 +8,7 @@ I'm currently available for:
 <ul>
 <li> Remote, short-term consulting and/or programming work</li>
 <li> Investigating the needs you and your users have, and finding optimal solutions</li>
-<li> Collaborating through email / Skype / instant messaging / Trello</li>
+<li> Collaborating through email / instant messaging / videoconferencing / project management tools</li>
 <li> Delivering code (PHP/JS/HTML/etc) via Git</li>
 </ul>
 

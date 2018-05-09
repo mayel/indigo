@@ -109,6 +109,12 @@
 			</a>
 	{% endif %}
 
+  {% if site.gitlab %}
+			<a class="link" rel="me" data-title="Code on Gitlab" href="https://gitlab.com/{{ site.gitlab }}" target="_blank">
+					<svg style="fill:LightSkyBlue" class="icon icon-github"><use xlink:href="#icon-github"></use></svg>
+			</a> 
+	{% endif %}
+
 	{% if site.github %}
 			<a class="link" rel="me" data-title="Code on Github" href="https://github.com/{{ site.github }}" target="_blank">
 					<svg style="fill:LightSkyBlue" class="icon icon-github"><use xlink:href="#icon-github"></use></svg>

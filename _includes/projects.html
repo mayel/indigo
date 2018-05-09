@@ -1,15 +1,16 @@
-<p>I've had the pleasure of building a lot of fun projects, including: Podemus, a podcasting platform (one of the first, back in 2005); LeLab.TV, a video platform (for which I also produced <a href="https://www.youtube.com/playlist?list=PLW7-xYtAY3tWEeEFyRG865-RB6V9uwLs1" target="_blank">video content</a>); <a href="http://blog.deborniol.com/cat/babelverse/" target="_blank">Babelverse</a>, an award-winning startup that took on the challenge of creating the 'universal translator', and now as a solidarity volunteer for many grassroots organisations in Greece, I’m helping set up computer labs and digital solutions to meet the needs of refugees.
+<p>I've had the pleasure of building a lot of fun projects, including: Podemus, a podcasting platform (one of the first, back in 2005); LeLab.TV, a video platform (for which I also produced <a href="https://www.youtube.com/playlist?list=PLW7-xYtAY3tWEeEFyRG865-RB6V9uwLs1" target="_blank">video content</a>); <a href="http://blog.deborniol.com/cat/babelverse/" target="_blank">Babelverse</a>, an award-winning startup that took on the challenge of creating the 'universal translator', and as a solidarity volunteer for various grassroots organisations in Greece, helping set up computer labs and digital solutions to meet the needs of refugees.
 
-<p>Recent projects include:
+<p>Current and recent projects include:
 
 <link rel="stylesheet" type="text/css" href="/assets/badge.css">
 
 <section class="list">
-    {% for post in site.posts %}
+    {% assign projects = site.posts | sort:"weight" %}
+    {% for post in projects %}
         {% if post.projects %}
             <div class="item {% if post.star %}star{% endif %}">
                 <a class="url" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url_base }}{{ post.url }}{% endif %}">
-                    
+
                     <span class="label badge-{{ post.badge }}">{{ post.badge }}</span>
                     <h3 class="title">{{ post.title }}</h3>
                 </a>

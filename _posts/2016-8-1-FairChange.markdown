@@ -14,9 +14,10 @@ description: "Helps you understand and control spending as you travel"
 author: mayel
 externalLink: false
 badge: Incubating
+weight: 80
 ---
 
 
 The FairChange app aims to help you understand and control spending as you travel. By combining exchange rates, lots of data on how much things cost around the world, and some clever algorithms - FairChange shows you what a local would expect to pay. Don’t get stung by tourist prices ever again!
 
-[Check out the FairChange site](http://fairchange.it/), and sign up to be notified on launch!
+[Check out the FairChange site](https://fairchange.app/), and sign up to be notified on launch.
