@@ -11,7 +11,7 @@
             <div class="item {% if post.star %}star{% endif %}">
                 <a class="url" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url_base }}{{ post.url }}{% endif %}">
 
-                    <span class="label badge-{{ post.badge }}">{{ post.badge }}</span>
+                    {% if post.badge %}<span class="label badge-{{ post.badge }}">{{ post.badge }}</span>{% endif %}
                     <h3 class="title">{{ post.title }}</h3>
                 </a>
             </div>

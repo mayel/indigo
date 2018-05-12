@@ -8,13 +8,30 @@ layout: page
 
 <h1 class="title">{{ page.title }}</h1>
 
+
+{{content}}
+
+
+{% if page.badge %}
+  <link rel="stylesheet" type="text/css" href="/assets/badge.css">
+  <div class="projects" style="float:left; margin-right:25px">
+    <span class="label badge-{{ page.badge }}" style="margin:0">{{ page.badge }}</span>
+  </div>
+{% endif %}
+
+
 <span class="date">
-    <time datetime="{{ page.date | date:"%d-%m-%Y" }}">{{ page.date | date: "%B %d, %Y" }}</time>
+    <time datetime="{{ page.date | date:"%d-%m-%Y" }}">Started {{ page.date | date: "%B %Y" }}</time>
     {% if site.read-time %} - {% include read-time.html %}{% endif %}
 </span>
 
-
-{{content}}
+{% if site.show-tags %}
+    <div class="post-tags">
+        {% for tag in page.tags %}
+            <a class="item" href="{{ site.url_base }}/tags.html#{{ tag | slugify }}">{{ tag }}</a>
+        {% endfor %}
+    </div>
+{% endif %}
 
 {% if page.blog and site.blog-nav-links %}
     <div class="blog-navigation">
@@ -35,13 +52,6 @@ layout: page
     {% include author.html %}
 {% endif %}
 
-{% if site.show-tags %}
-    <div class="post-tags">
-        {% for tag in page.tags %}
-            <a class="item" href="{{ site.url_base }}/tags.html#{{ tag | slugify }}">{{ tag }}</a>
-        {% endfor %}
-    </div>
-{% endif %}
 
 {% if site.related %}
     {% include related.html %}

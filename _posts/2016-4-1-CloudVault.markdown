@@ -24,4 +24,4 @@ weight: 20
 
 CloudVault is for freedom-loving individuals. Whether you simply want to secure your data and internet access with secure storage and VPN access, or if you want to host a website or blog, CloudVault can meet your needs.
 
-[Check out the CloudVault site](http://cloudvault.me/)
+[Check out the CloudVault site](http://cloudvault.me/).
