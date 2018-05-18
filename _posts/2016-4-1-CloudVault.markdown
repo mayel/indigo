@@ -22,6 +22,6 @@ weight: 20
 
 [![Screenshot](./assets/images/cloudvault-screen.png)](http://cloudvault.me/)
 
-CloudVault is for freedom-loving individuals. Whether you simply want to secure your data and internet access with secure storage and VPN access, or if you want to host a website or blog, CloudVault can meet your needs.
+CloudVault is a secure cloud service for freedom-loving individuals and groups. We provide ready-to-use solutions based on free / open source software and very affordable cloud infrastructure, to help you secure your data and internet access with encrypted storage and VPN access, or to run specialised cloud software that enables you to quit using Google and co. 
 
 [Check out the CloudVault site](http://cloudvault.me/).
