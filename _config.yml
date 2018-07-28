@@ -91,6 +91,8 @@ width: normal
 
 # if you don't need projects, comment the *projects* configs below
 projects: true
+# microblog / updates feed
+#feed: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true

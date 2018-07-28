@@ -19,6 +19,11 @@
             </li>
         {% endif %}
 
+
+            <li class="item {% if page.title == 'Updates' or include.section == 'Updates' %}active{% endif %}">
+                <a class="link" href="{{ site.url_base }}/#feed">Updates</a>
+            </li>
+
         {% if site.projects == true %}
 
             <li class="item {% if page.title == 'Work' or include.section == 'Work' %}active{% endif %}">
