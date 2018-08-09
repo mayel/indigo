@@ -69,3 +69,7 @@ a.badge:hover, a.badge:focus {
 .badge-Pre-Archived {
 	background-color: #DAB894;
 }
+
+.badge-Hiatus {
+	background-color: #FFA500;
+}
