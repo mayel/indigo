@@ -20,7 +20,7 @@ Your message will be encrypted in the browser before being sent, thanks to <a hr
 	   			<label for="email">Your&nbsp;Email</label>
 	 		</td>
 	  		<td valign="top">
-	   			<input type="text" name="email" style="width:100%;" required="true">
+	   			<input type="text" name="email" style="width:100%; font-size:14px" required="true">
 	  		</td>
 	 	</tr>
 		<tr>
@@ -28,7 +28,7 @@ Your message will be encrypted in the browser before being sent, thanks to <a hr
 				<label for="message">Message</label>
 			</td>
 			<td valign="top">
-				<textarea  id="message" name="message" style="height:180px; width:100%; min-width:420px" required="true" placeholder="If you have a PGP public key, please include a link (or copy/paste it into the message) if you want a secure reply."></textarea>
+				<textarea  id="message" name="message" style="height:180px; width:100%; min-width:450px; font-size:14px" required="true" placeholder="If you have a PGP public key, please include a link (or copy/paste it into the message) if you want a secure reply."></textarea>
 		 </td>
 		</tr>
 		<tr>
