@@ -31,7 +31,7 @@ analytics-google: 'UA-2664400-1'
 disqus: false
 
 # if you don't have any of social below, comment the line
-mastodon: https://social.coop/@mayel
+mastodon: https://pub.mayel.space
 twitter: mayel2b
 facebook: mayel2b
 #google: mayeldeborniol
