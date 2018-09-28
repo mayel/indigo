@@ -4,8 +4,8 @@ layout: page
 ---
 
 
-<script src="assets/openpgp.min.js" type="text/javascript"></script>
-<script src="assets/contact-pgp.js" type="text/javascript"></script>
+<script src="{{ site.url_base }}/assets/openpgp.min.js" type="text/javascript"></script>
+<script src="{{ site.url_base }}/assets/contact-pgp.js" type="text/javascript"></script>
 
 
 <h3>Contact me</h3>
