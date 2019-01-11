@@ -17,7 +17,7 @@ description: "CloudVault is for freedom-loving individuals"
 author: mayel
 externalLink: false
 badge: Hiatus
-weight: 20
+weight: 60
 ---
 
 [![Screenshot](./assets/images/cloudvault-screen.png)](http://cloudvault.me/)

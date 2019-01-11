@@ -17,7 +17,7 @@ description: "HAHA Academy, 21st century education"
 author: mayel
 externalLink: false
 badge: Beta
-weight: 40
+weight: 35
 ---
 
 
