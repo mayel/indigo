@@ -1,0 +1,30 @@
+---
+title: "ZO, a co-operative team of designers & developers working on open and decentralised technology"
+layout: post
+date: 2018-9-1 22:10
+tag:
+- team
+- co-op
+- cooperative
+- free software
+- federated
+- libre
+- open source
+- FOSS
+- decentralised
+# image: /assets/images/commonspub-icon.png
+headerImage: false
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "ZO, a co-operative team of designers & developers working on open and decentralised technology"
+author: mayel
+externalLink: false
+badge: Live
+weight: 0
+---
+
+- We create innovative solutions and libre tools that people actually need, for ourselves, our clients, or with the support of crowdfunding.
+- We improve, remix, combine, and customise open source software.
+- We support communities to setup and maintain their own infrastructure.
+
+Learn more at [ZO Team's website](http://commonspub.org) and contact me if you'd like to cooperate!

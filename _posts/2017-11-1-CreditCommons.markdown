@@ -13,7 +13,7 @@ tag:
 - community
 - local
 headerImage: false
-projects: true
+projects: false
 hidden: true # don't count this post in blog pagination
 description: "Credit Commons, a money system for the solidarity economy"
 author: mayel

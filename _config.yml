@@ -33,16 +33,16 @@ disqus: false
 # if you don't have any of social below, comment the line
 mastodon: https://pub.mayel.space
 twitter: mayel2b
-facebook: mayel2b
+# facebook: mayel2b
 #google: mayeldeborniol
 #pinterest: mypinterest
 linkedin: mayel
 github: mayel
-# gitlab: mayel
+gitlab: mayel
 stackoverflow: story/384466
-medium: mayel
-instagram: mayel2b
-youtube: mayeldeborniol
+# medium: mayel
+# instagram: mayel2b
+# youtube: mayeldeborniol
 #spotify: myspotify
 #quora: userquora
 #reddit: mayel
@@ -51,7 +51,7 @@ youtube: mayeldeborniol
 keybase: mayel
 #bitcoin: https://onename.com/mayel
 # hire: http://www.cryptogrind.com/profile/584e9801c7d5df721ee8f1f2?r=584eb087331d8bfe0cc3b364
-consult: https://www.codementor.io/mayel
+# consult: https://www.codementor.io/mayel
 email_link: ./contact.html
 donate: https://liberapay.com/mayel/donate
 
@@ -60,9 +60,9 @@ social:
   name: Mayel de Borniol
   links:
     - https://twitter.com/mayel2b
-    - https://www.facebook.com/mayel2b
+    # - https://www.facebook.com/mayel2b
     - https://www.linkedin.com/in/mayel
-    - https://plus.google.com/+MayelDeBorniol
+    # - https://plus.google.com/+MayelDeBorniol
     - https://github.com/mayel
     - https://keybase.io/mayel
 
