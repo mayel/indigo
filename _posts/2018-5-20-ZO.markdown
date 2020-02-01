@@ -27,4 +27,4 @@ weight: 0
 - We improve, remix, combine, and customise open source software.
 - We support communities to setup and maintain their own infrastructure.
 
-Learn more at [ZO Team's website](http://commonspub.org) and contact me if you'd like to cooperate!
+Learn more at [ZO Team's website](http://zo.team) and contact me if you'd like to cooperate!
