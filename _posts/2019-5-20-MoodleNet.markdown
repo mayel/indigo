@@ -25,4 +25,4 @@ weight: 0
 ---
 
 
-I'm currently working with [Moodle](http://moodle.org/) as Technical Architect on the [MoodleNet project](https://moodle.com/moodlenet), a new open social media platform for educators, focussed on professional development and open content to sustainably empower communities of educators to share and learn from each other to improve the quality of education.
+I previously worked with [Moodle](http://moodle.org/) as Technical Architect on the [MoodleNet project](https://moodle.com/moodlenet), a new social media platform for educators (free software and federated through ActivityPub), focussed on professional development and open content to sustainably empower communities of educators to share and learn from each other to improve the quality of education.
