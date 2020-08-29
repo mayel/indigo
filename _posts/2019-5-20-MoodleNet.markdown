@@ -20,7 +20,7 @@ hidden: true # don't count this post in blog pagination
 description: "MoodleNet, empowering communities of educators"
 author: mayel
 externalLink: false
-badge: Beta
+badge: Graduated
 weight: 0
 ---
 

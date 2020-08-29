@@ -15,7 +15,7 @@ image: /assets/images/getacross-logo.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "I founded & developed this non-profit solution to respond to language barriers during the refugee crisis in Europe."
+description: "During the refugee crisis in Europe, I created this non-profit solution to help refugees and volunteers get across language barriers."
 author: mayel
 externalLink: false
 badge: Archived
@@ -26,6 +26,5 @@ weight: 90
 
 ---
 
-I founded & developed (with some help for the iPhone app) this non-profit solution to respond to language barriers during the refugee crisis in Europe.
+During the refugee crisis in Europe, I created this non-profit solution to help refugees and volunteers get across language barriers .
 
-[Check out the GetAcross site](https://app.getacross.org/), and let me know if you want to help!
