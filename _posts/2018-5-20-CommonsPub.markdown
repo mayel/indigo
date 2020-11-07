@@ -14,7 +14,7 @@ tag:
 - FOSS
 - ActivityStreams
 - decentralised
-image: /assets/images/commonspub-icon.png
+image: https://bonfire.cafe/assets/images/logo.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
