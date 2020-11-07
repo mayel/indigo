@@ -1,5 +1,5 @@
 ---
-title: "CommonsPub, a federated server based on ActivityPub web standard"
+title: "Bonfire, a federated network ecosystem (with apps, plug-and-play devices, and cloud services) "
 layout: post
 date: 2018-9-1 22:10
 tag:
@@ -18,7 +18,7 @@ image: /assets/images/commonspub-icon.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "CommonsPub, a generic federated server, based on the ActivityPub web standard."
+description: "Bonfire, a federated network ecosystem (with apps, plug-and-play devices, and cloud services)" 
 author: mayel
 externalLink: false
 badge: Alpha
@@ -26,4 +26,4 @@ weight: 0
 ---
 
 
-We are developing [CommonsPub](http://commonspub.org) as a building block for [MoodleNet](https://moodle.com/moodlenet) and several other projects. CommonsPub is an ActivityPub server which supports any type of activity, object and property, including any extensions to ActivityStreams. It is intended to be a server-side building block for creating multifunctional federated networks.
+We are developing [Bonfire](http://bonfire.cafe) as a set of building blocks for ActivityPub-based federated apps which support any type of activity, so you or your community can create and operate your own multifunctional federated networks.
