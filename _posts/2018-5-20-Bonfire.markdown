@@ -14,7 +14,7 @@ tag:
 - FOSS
 - ActivityStreams
 - decentralised
-image: https://bonfire.cafe/assets/images/logo.png
+image: /assets/images/bonfire-icon.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
@@ -25,5 +25,8 @@ badge: Alpha
 weight: 0
 ---
 
+## Your plug & play federated social network
+
+> Bonfire aims to expand your freedom as a user of social networks, puts your data in your own hands (literally) and connects you with the people and communities you care about. 
 
 We are developing [Bonfire](http://bonfire.cafe) as a set of building blocks for ActivityPub-based federated apps which support any type of activity, so you or your community can create and operate your own multifunctional federated networks.
